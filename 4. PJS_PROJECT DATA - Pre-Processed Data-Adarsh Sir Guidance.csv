@@ -1,0 +1,201 @@
+Student_ID,Student_Name,Roll_Number,Course,Year,Semester,Faculty,Faculty_Type,Subject_Knowledge,Clarity_of_Teaching,Communication_Skills,Class_Engagement,Doubt_Solving,Assignment_Level,Feedback_on_Work,Student_Support,Course_Structure,Overall_Satisfaction,Comments,Comment Category,Sentiment,Dimension
+1,Shalin Joshi,9,B.Com,Year 1,Sem 2,Prof. Ritu Agarwal,Regular,7,7,7,7,8,6.3,7.8,8.7,7,7,doubt solving is good,Strength_Support,Positive,Support
+2,Swara Kulkarni,42,B.Com,Year 1,Sem 1,Faculty A,Regular,2.1,1.7,3,2.4,2.7,1,1.6,2.4,1,2,could improve classroom engagement,Weak_Engagement,Negative,Engagement
+3,Vikram Joshi,13,B.Com,Year 2,Sem 1,Prof. Ritu Agarwal,Regular,9.3,9,9.8,9.3,9.9,8.3,10,10,10,10,needs more examples,Weak_Examples,Negative,Clarity
+4,Ritesh Ahir,94,B.Com,Year 1,Sem 1,Prof. Ritu Agarwal,Regular,5.9,4.3,4.8,5.2,5.9,3.9,5.1,5,3.8,5,great subject knowledge,Strength_Knowledge,Positive,Knowledge
+5,Kriti Thakur,102,B.Com,Year 1,Sem 2,Dr Meera Krishnan,Regular,7,5,7,5,10,9.2,9.4,10,5,10,doubt solving is good,Strength_Support,Positive,Support
+6,Ananya Singh,6,B.Com,Year 2,Sem 1,Dr. P. S. Kulkarni,Visiting,4.7,5.5,3.5,4.1,6,4.4,5.1,5.2,4.8,5,pace should be reduced,Weak_Pace,Negative,Pace
+7,Yash Bhatt,34,B.Com,Year 2,Sem 2,Dr. Pradeep Sinha,Visiting,10,7,7,7,6.3,5.8,6.9,8.3,7,7,explains concepts clearly,Strength_Clarity,Positive,Clarity
+8,Kriti Thakur,102,B.Com,Year 2,Sem 1,Faculty A,Regular,10,10,10,5,10,7.7,10,9.9,5,10,very engaging lectures,Strength_Engagement,Positive,Engagement
+9,Pranjal Doshi,92,B.Com,Year 1,Sem 2,Dr. Pradeep Sinha,Visiting,10,10,10,10,10,9.7,10,10,9,10,more student interaction needed,Weak_Engagement,Negative,Engagement
+10,Jeet Makwana,55,B.Com,Year 1,Sem 2,Dr. Rohan Bajaj,Visiting,7.9,6.7,6.4,8.2,7.6,7.4,7.8,7.2,8,7,could improve classroom engagement,Weak_Engagement,Negative,Engagement
+11,Neha Banerjee,32,B.Com,Year 2,Sem 1,Prof. Ritu Agarwal,Regular,8.1,8.6,7.2,8.4,8.3,6.5,7.1,7.6,4.6,7,could improve classroom engagement,Weak_Engagement,Negative,Engagement
+12,Keya Garg,69,B.Com,Year 2,Sem 1,Dr. Rohan Bajaj,Visiting,6.4,7.4,7.7,8.7,7.1,6.2,8.2,8,6.5,7,very engaging lectures,Strength_Engagement,Positive,Engagement
+13,Pranav Shetty,43,B.Com,Year 1,Sem 2,Dr Meera Krishnan,Regular,7.2,7.6,7,8.1,7.2,5.9,6,7.6,6,7,very engaging lectures,Strength_Engagement,Positive,Engagement
+14,Tushar Panchal,39,B.Com,Year 1,Sem 2,Faculty A,Regular,10,7,7,7,10,9.1,9.8,9.1,7,10,more student interaction needed,Weak_Engagement,Negative,Engagement
+15,Divij Talwar,101,B.Com,Year 2,Sem 1,Dr. P. S. Kulkarni,Visiting,10,10,9.5,10,10,9.4,10,10,9.9,10,more student interaction needed,Weak_Engagement,Negative,Engagement
+16,Pranav Shetty,43,B.Com,Year 1,Sem 2,Dr. Sunita Kapoor,Visiting,4.4,5.5,5.3,7.4,5.8,4.5,4.5,6.5,4.6,5,very engaging lectures,Strength_Engagement,Positive,Engagement
+17,Varun Sinha,29,B.Com,Year 1,Sem 1,Prof. Sameer Nair,Regular,8.1,7.7,6.1,8,7.9,8.1,6.3,6.8,5.4,7,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+18,Charvi Trivedi,2,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,5.9,5,4,5.4,5.9,3.7,6.5,4.9,3.9,5,excellent use of real-world examples,Strength_RealWorld,Positive,Clarity
+19,Komal Shinde,90,B.Com,Year 1,Sem 1,Dr Meera Krishnan,Regular,10,7,10,10,10,9.9,9.2,10,10,10,excellent use of real-world examples,Strength_RealWorld,Positive,Clarity
+20,Siddharth Mishra,31,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,7,7,5,7,6.5,3.1,5.4,5.7,10,5,lectures too fast,Weak_Pace,Negative,Pace
+21,Vikram Joshi,13,B.Com,Year 1,Sem 2,Dr. Sunita Kapoor,Visiting,10,9.5,9.2,10,10,9.8,9.9,10,10,10,very approachable and helpful,Strength_Support,Positive,Support
+22,Aarush Goel,74,B.Com,Year 1,Sem 2,Dr. P. S. Kulkarni,Visiting,7,5,7,5,5.6,3.7,6.7,5.8,7,5,explains concepts clearly,Strength_Clarity,Positive,Clarity
+23,Ritesh Ahir,94,B.Com,Year 2,Sem 2,Faculty A,Regular,4.3,5.4,3.9,5.4,4.6,4.9,5.3,5.9,5.3,5,very supportive outside class,Strength_Support,Positive,Support
+24,Yash Bhatt,34,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,10,10,10,7,10,9.2,9.7,9.8,7,10,explains concepts clearly,Strength_Clarity,Positive,Clarity
+25,Shalin Joshi,9,B.Com,Year 1,Sem 1,Dr. P. S. Kulkarni,Visiting,10,10,10,10,10,10,10,10,10,10,interactive sessions are helpful,Strength_Engagement,Positive,Engagement
+26,Anushka Wadhawan,28,B.Com,Year 1,Sem 2,Prof. Sameer Nair,Regular,8,6.4,5.9,7.3,8,6.7,7,6.6,6.3,7,course well organised and clear,Strength_Structure,Positive,Structure
+27,Siddharth Mishra,31,B.Com,Year 2,Sem 2,Prof. Ritu Agarwal,Regular,10,10,10,7,9.4,9,10,10,10,10,course well organised and clear,Strength_Structure,Positive,Structure
+28,Trisha Banerjee,30,B.Com,Year 2,Sem 1,Dr. P. S. Kulkarni,Visiting,6.7,7.4,7.4,6.5,7.4,5.4,7.5,7.8,6.7,7,interactive sessions are helpful,Strength_Engagement,Positive,Engagement
+29,Ronit Bajaj,108,B.Com,Year 2,Sem 1,Dr. Rohan Bajaj,Visiting,10,10,9.3,9.7,10,10,10,10,10,10,good teaching but needs clarity,Weak_Clarity,Negative,Clarity
+30,Bhumi Bajaj,81,B.Com,Year 1,Sem 2,Dr. Pradeep Sinha,Visiting,10,10,10,7,10,10,10,10,5,10,needs more examples,Weak_Examples,Negative,Clarity
+31,Juhi Bajpai,59,B.Com,Year 1,Sem 1,Dr. Rohan Bajaj,Visiting,10,10,10,10,10,8.1,10,9.4,10,10,good teaching but needs clarity,Weak_Clarity,Negative,Clarity
+32,Pranav Shetty,43,B.Com,Year 1,Sem 2,Faculty A,Regular,5,5,7,2,6.9,7,7.1,6.3,2,7,pace should be reduced,Weak_Pace,Negative,Pace
+33,Arundhati Soni,105,B.Com,Year 2,Sem 2,Dr Meera Krishnan,Regular,10,10,9.3,10,10,10,10,8.8,9.6,10,needs more examples,Weak_Examples,Negative,Clarity
+34,Aarush Goel,74,B.Com,Year 2,Sem 2,Prof. Ritu Agarwal,Regular,7.9,6.9,7.9,6.5,8,7.1,6.3,7.2,6.6,7,doubt solving is good,Strength_Support,Positive,Support
+35,Rohan Gupta,11,B.Com,Year 1,Sem 1,Dr Meera Krishnan,Regular,10,10,7,7,7.1,5.7,8.6,7.7,10,7,very engaging lectures,Strength_Engagement,Positive,Engagement
+36,Tanuja Thakkar,73,B.Com,Year 1,Sem 1,Dr. P. S. Kulkarni,Visiting,9.7,10,10,10,10,10,9.6,10,8.4,10,explains concepts clearly,Strength_Clarity,Positive,Clarity
+37,Tanuja Thakkar,73,B.Com,Year 1,Sem 2,Dr. P. S. Kulkarni,Visiting,10,9.6,10,7.6,10,8.3,10,9.3,8.8,10,great subject knowledge,Strength_Knowledge,Positive,Knowledge
+38,Tarun Kapoor,3,B.Com,Year 1,Sem 1,Dr. Pradeep Sinha,Visiting,7.4,7.5,8.4,6.2,7.5,5.6,7.7,7.7,7.6,7,good teaching but needs clarity,Weak_Clarity,Negative,Clarity
+39,Prerna Dua,76,B.Com,Year 2,Sem 2,Dr. Pradeep Sinha,Visiting,10,10,9.9,10,10,8.4,10,8.9,10,10,great subject knowledge,Strength_Knowledge,Positive,Knowledge
+40,Nikhil Bose,16,B.Com,Year 1,Sem 1,Dr. P. S. Kulkarni,Visiting,10,10,10,9.7,10,8.8,10,10,9.4,10,doubt solving is good,Strength_Support,Positive,Support
+41,Vivaan Sood,57,B.Com,Year 2,Sem 1,Prof. Ritu Agarwal,Regular,10,10,10,10,9.9,9,10,10,10,10,very supportive outside class,Strength_Support,Positive,Support
+42,Simran Kaur,27,B.Com,Year 1,Sem 1,Faculty A,Regular,10,10,10,9.3,10,8.9,10,10,9.8,10,very engaging lectures,Strength_Engagement,Positive,Engagement
+43,Prerna Dua,76,B.Com,Year 1,Sem 1,Dr Meera Krishnan,Regular,8.3,8.2,6.9,7.8,7.8,6.1,7.3,7.9,6.4,7,well structured lectures,Strength_Structure,Positive,Structure
+44,Charvi Trivedi,2,B.Com,Year 1,Sem 1,Dr. Sunita Kapoor,Visiting,7,7,7,7,6.9,8.2,6.6,6.6,5,7,needs better communication,Weak_Communication,Negative,Communication
+45,Aayush Rawat,51,B.Com,Year 1,Sem 1,Dr. P. S. Kulkarni,Visiting,8.6,7.9,7.6,7.7,6.7,6.4,6.7,8.2,6.6,7,very supportive outside class,Strength_Support,Positive,Support
+46,Rohan Gupta,11,B.Com,Year 1,Sem 2,Dr. P. S. Kulkarni,Visiting,10,10,10,7,10,8.6,9.9,10,10,10,assignments are too complex,Weak_Assignment,Negative,Assignment
+47,Shreya Pillai,17,B.Com,Year 1,Sem 1,Faculty A,Regular,9.8,9.2,9.9,10,9.9,9.3,8.8,9.1,9,10,assignments are too complex,Weak_Assignment,Negative,Assignment
+48,Shreya Pillai,17,B.Com,Year 2,Sem 2,Dr. Sunita Kapoor,Visiting,10,10,10,10,10,9.5,9.6,10,10,10,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+49,Ridhi Chandra,36,B.Com,Year 1,Sem 1,Dr Meera Krishnan,Regular,10,10,9.2,10,10,9.5,10,10,10,10,very approachable and helpful,Strength_Support,Positive,Support
+50,Jeet Makwana,55,B.Com,Year 1,Sem 1,Dr. Sunita Kapoor,Visiting,8.1,7.5,7.4,6.8,8,7.7,8.2,9.3,6.8,7,lectures too fast,Weak_Pace,Negative,Pace
+51,Hemant Surana,77,B.Com,Year 2,Sem 1,Faculty A,Regular,10,10,10,10,9.7,9.8,10,10,7,10,assignments are too complex,Weak_Assignment,Negative,Assignment
+52,Dhruv Saxena,25,B.Com,Year 2,Sem 2,Prof. Sameer Nair,Regular,4.9,4.4,4.3,3.2,4.8,4.4,5.4,6.8,4.1,5,doubt solving is good,Strength_Support,Positive,Support
+53,Varun Sinha,29,B.Com,Year 2,Sem 1,Prof. Ritu Agarwal,Regular,8.6,6.9,6.5,7.5,9.1,7.3,6.9,6.1,5.6,7,well structured lectures,Strength_Structure,Positive,Structure
+54,Aayush Rawat,51,B.Com,Year 1,Sem 1,Dr Meera Krishnan,Regular,8.7,7.1,7.9,6,7.5,6.2,6.8,7.9,6.1,7,pace should be reduced,Weak_Pace,Negative,Pace
+55,Jinal Solanki,78,B.Com,Year 2,Sem 2,Dr. Pradeep Sinha,Visiting,7,5,7,7,6.6,6.3,7.4,7.9,7,7,lectures too fast,Weak_Pace,Negative,Pace
+56,Ritesh Ahir,94,B.Com,Year 1,Sem 1,Dr. Pradeep Sinha,Visiting,6.4,4.5,4,6.3,4.9,5.6,5.4,6.4,5,5,very approachable and helpful,Strength_Support,Positive,Support
+57,Trisha Banerjee,30,B.Com,Year 2,Sem 2,Dr Meera Krishnan,Regular,7.7,8.8,8.3,7.1,8,7.3,6.4,7.9,7.4,7,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+58,Kavya Menon,33,B.Com,Year 2,Sem 2,Dr. Rohan Bajaj,Visiting,8.8,6.2,6.5,5.9,8.3,7.8,7.6,9,6.7,7,explains concepts clearly,Strength_Clarity,Positive,Clarity
+59,Jeet Makwana,55,B.Com,Year 2,Sem 1,Faculty A,Regular,7,7,7,2,6.2,4.7,7,7.5,5,7,well structured lectures,Strength_Structure,Positive,Structure
+60,Jiya Nanda,48,B.Com,Year 2,Sem 1,Dr Meera Krishnan,Regular,5.6,3.5,4.8,4.3,5.8,3.4,4.8,4.6,5.1,5,well structured lectures,Strength_Structure,Positive,Structure
+61,Rupal Salvi,8,B.Com,Year 1,Sem 1,Dr. P. S. Kulkarni,Visiting,10,10,10,7,10,10,9.4,10,7,10,great subject knowledge,Strength_Knowledge,Positive,Knowledge
+62,Maitri Shah,99,B.Com,Year 1,Sem 1,Prof. Ritu Agarwal,Regular,10,9.8,10,9.3,9.6,10,10,9.9,9.3,10,course well organised and clear,Strength_Structure,Positive,Structure
+63,Abhinav Tomar,97,B.Com,Year 1,Sem 2,Prof. Ritu Agarwal,Regular,6,5.3,5,5.6,5.2,3.9,5.1,3.7,5.3,5,interactive sessions are helpful,Strength_Engagement,Positive,Engagement
+64,Ronit Bajaj,108,B.Com,Year 1,Sem 1,Faculty A,Regular,9.1,10,10,9.6,10,10,10,10,9.9,10,assignments are too complex,Weak_Assignment,Negative,Assignment
+65,Jinal Solanki,78,B.Com,Year 2,Sem 1,Dr. Sunita Kapoor,Visiting,7.1,6.2,7.5,6.8,7.1,5.6,8.7,8.3,5.7,7,excellent use of real-world examples,Strength_RealWorld,Positive,Clarity
+66,Jeet Makwana,55,B.Com,Year 2,Sem 2,Faculty A,Regular,10,10,9.8,9.1,10,8.3,9.8,9.5,10,10,explains concepts clearly,Strength_Clarity,Positive,Clarity
+67,Shreya Pillai,17,B.Com,Year 2,Sem 2,Dr. Rohan Bajaj,Visiting,9.9,10,10,9.4,10,9.2,10,10,10,10,very engaging lectures,Strength_Engagement,Positive,Engagement
+68,Ananya Singh,6,B.Com,Year 2,Sem 1,Dr Meera Krishnan,Regular,5.6,4.5,5.1,5.3,4.8,3.7,5.8,5.8,4.4,5,very engaging lectures,Strength_Engagement,Positive,Engagement
+69,Bhumi Bajaj,81,B.Com,Year 2,Sem 1,Faculty A,Regular,6.5,7,7.3,5.5,6.8,6.6,6.4,5.8,6.8,7,more student interaction needed,Weak_Engagement,Negative,Engagement
+70,Simran Kaur,27,B.Com,Year 1,Sem 2,Prof. Ritu Agarwal,Regular,9.5,10,10,9.4,9.3,9.3,9.3,10,10,10,good teaching but needs clarity,Weak_Clarity,Negative,Clarity
+71,Hemant Surana,77,B.Com,Year 2,Sem 2,Prof. Sameer Nair,Regular,10,10,10,10,10,8.6,9.8,10,7,10,course well organised and clear,Strength_Structure,Positive,Structure
+72,Jeet Makwana,55,B.Com,Year 2,Sem 1,Dr Meera Krishnan,Regular,7.1,7.9,6,7.7,5.5,5.6,7.7,7.2,7.8,7,explains concepts clearly,Strength_Clarity,Positive,Clarity
+73,Sneha Reddy,12,B.Com,Year 1,Sem 1,Dr. Rohan Bajaj,Visiting,10,7,10,7,8,6.1,7.6,7.6,7,7,could improve classroom engagement,Weak_Engagement,Negative,Engagement
+74,Viraj Rajput,80,B.Com,Year 2,Sem 2,Prof. Sameer Nair,Regular,7,7,7,10,8.3,6.5,7.4,7,7,7,course well organised and clear,Strength_Structure,Positive,Structure
+75,Sneha Reddy,12,B.Com,Year 2,Sem 1,Faculty A,Regular,7,10,7,7,6.9,5.8,7.3,6.9,7,7,needs better communication,Weak_Communication,Negative,Communication
+76,Mitesh Pardeshi,104,B.Com,Year 2,Sem 1,Dr. P. S. Kulkarni,Visiting,10,7,7,7,7.6,8,7.9,7.1,7,7,very engaging lectures,Strength_Engagement,Positive,Engagement
+77,Rohan Gupta,11,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,10,10,8.6,9.5,10,9.4,10,10,8.2,10,needs more examples,Weak_Examples,Negative,Clarity
+78,Pranjal Doshi,92,B.Com,Year 1,Sem 2,Dr. Sunita Kapoor,Visiting,10,10,8.5,10,9.4,10,10,10,10,10,pace should be reduced,Weak_Pace,Negative,Pace
+79,Sahil Malhotra,18,B.Com,Year 2,Sem 1,Dr. P. S. Kulkarni,Visiting,10,10,10,7,10,10,10,10,7,10,interactive sessions are helpful,Strength_Engagement,Positive,Engagement
+80,Pranjal Doshi,92,B.Com,Year 1,Sem 1,Prof. Ritu Agarwal,Regular,10,9.7,10,9.4,10,9.8,10,10,9.8,10,more student interaction needed,Weak_Engagement,Negative,Engagement
+81,Arundhati Soni,105,B.Com,Year 2,Sem 1,Prof. Sameer Nair,Regular,10,9.9,9,9.5,10,8.6,10,10,9.8,10,well structured lectures,Strength_Structure,Positive,Structure
+82,Sakshi Goyal,40,B.Com,Year 2,Sem 1,Dr. Rohan Bajaj,Visiting,6.3,7.1,4.8,4.5,6.9,5.1,5.5,5.9,3.5,5,more student interaction needed,Weak_Engagement,Negative,Engagement
+83,Keya Garg,69,B.Com,Year 1,Sem 1,Faculty A,Regular,9.4,10,9.8,9.9,10,9.3,9.4,10,10,10,more student interaction needed,Weak_Engagement,Negative,Engagement
+84,Harini Suresh,84,B.Com,Year 1,Sem 1,Dr. Pradeep Sinha,Visiting,9.3,8.5,8.5,6.9,7.4,6.4,8.2,6.1,5.9,7,pace should be reduced,Weak_Pace,Negative,Pace
+85,Abhinav Tomar,97,B.Com,Year 2,Sem 1,Prof. Sameer Nair,Regular,6.7,5,4.5,4.1,6.1,4.4,4.1,4.3,3.2,5,pace should be reduced,Weak_Pace,Negative,Pace
+86,Viraj Rajput,80,B.Com,Year 2,Sem 1,Dr. Sunita Kapoor,Visiting,10,10,10,9.2,10,7.3,10,10,9.6,10,needs better communication,Weak_Communication,Negative,Communication
+87,Vikram Joshi,13,B.Com,Year 1,Sem 2,Prof. Sameer Nair,Regular,10,10,10,9.7,10,9.3,10,10,8.6,10,well structured lectures,Strength_Structure,Positive,Structure
+88,Abhijit Kadam,83,B.Com,Year 1,Sem 1,Dr. P. S. Kulkarni,Visiting,10,10,10,10,10,9.2,9.7,10,7,10,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+89,Ronit Bajaj,108,B.Com,Year 2,Sem 1,Dr. Sunita Kapoor,Visiting,10,10,9.7,10,10,7.4,10,10,9.6,10,doubt solving is good,Strength_Support,Positive,Support
+90,Pranav Shetty,43,B.Com,Year 1,Sem 2,Dr Meera Krishnan,Regular,5,5,5,2,1,1,1.9,1.3,2,2,excellent use of real-world examples,Strength_RealWorld,Positive,Clarity
+91,Asmita Pillai,71,B.Com,Year 1,Sem 2,Dr. Rohan Bajaj,Visiting,10,9.7,10,10,10,8.7,10,10,10,10,more student interaction needed,Weak_Engagement,Negative,Engagement
+92,Dhruv Saxena,25,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,7,10,10,7,4.5,5,5.1,5.2,2,5,interactive sessions are helpful,Strength_Engagement,Positive,Engagement
+93,Ronit Bajaj,108,B.Com,Year 1,Sem 2,Dr. Rohan Bajaj,Visiting,10,10,10,7,10,10,10,10,10,10,well structured lectures,Strength_Structure,Positive,Structure
+94,Ankush Luthra,67,B.Com,Year 2,Sem 2,Prof. Ritu Agarwal,Regular,1.9,2.9,2.7,1.9,1.6,2.1,2.2,2.1,2,2,excellent use of real-world examples,Strength_RealWorld,Positive,Clarity
+95,Devansh Puri,88,B.Com,Year 1,Sem 2,Dr. Pradeep Sinha,Visiting,10,10,10,7,10,8.8,9.2,9.3,7,10,very supportive outside class,Strength_Support,Positive,Support
+96,Aayush Rawat,51,B.Com,Year 2,Sem 1,Faculty A,Regular,10,10,7,5,10,8.1,10,8.5,7,10,assignments are too complex,Weak_Assignment,Negative,Assignment
+97,Shlok Nanavati,66,B.Com,Year 1,Sem 2,Dr Meera Krishnan,Regular,10,10,9.8,9.9,10,10,10,10,9.9,10,assignments are too complex,Weak_Assignment,Negative,Assignment
+98,Ankita Rao,24,B.Com,Year 2,Sem 2,Prof. Ritu Agarwal,Regular,2.5,2.4,2.4,1,3.2,1.5,2.2,2.5,1,2,interactive sessions are helpful,Strength_Engagement,Positive,Engagement
+99,Yuvraj Gill,98,B.Com,Year 2,Sem 2,Dr. Rohan Bajaj,Visiting,10,7,7,7,6,4.2,4.9,5.9,7,5,excellent use of real-world examples,Strength_RealWorld,Positive,Clarity
+100,Arundhati Soni,105,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,10,10,8.8,10,10,10,10,10,10,10,lectures too fast,Weak_Pace,Negative,Pace
+101,Shalin Joshi,9,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,9.3,9.4,9.7,10,9.9,9.5,9.7,10,10,10,course well organised and clear,Strength_Structure,Positive,Structure
+102,Juhi Bajpai,59,B.Com,Year 2,Sem 1,Dr. Rohan Bajaj,Visiting,10,10,10,10,6.6,5.9,6.4,6.9,7,7,good teaching but needs clarity,Weak_Clarity,Negative,Clarity
+103,Shreya Pillai,17,B.Com,Year 1,Sem 2,Dr. Rohan Bajaj,Visiting,10,9.8,10,10,10,10,10,10,10,10,very supportive outside class,Strength_Support,Positive,Support
+104,Shreya Pillai,17,B.Com,Year 2,Sem 2,Dr. Sunita Kapoor,Visiting,10,10,10,9.8,10,9,10,10,9.8,10,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+105,Ritesh Ahir,94,B.Com,Year 2,Sem 1,Faculty A,Regular,4.9,5.4,5.5,5.3,4.7,3.9,4.9,5.7,3.1,5,very engaging lectures,Strength_Engagement,Positive,Engagement
+106,Ritesh Ahir,94,B.Com,Year 2,Sem 1,Dr. Rohan Bajaj,Visiting,6.1,4.5,5.7,6,6.6,5.3,5.9,5.6,5.3,5,doubt solving is good,Strength_Support,Positive,Support
+107,Parv Singhal,49,B.Com,Year 1,Sem 1,Dr. Rohan Bajaj,Visiting,10,10,10,10,9.4,9.9,10,10,10,10,explains concepts clearly,Strength_Clarity,Positive,Clarity
+108,Vivek Dandekar,106,B.Com,Year 1,Sem 1,Dr Meera Krishnan,Regular,6.6,6.3,7.7,7.3,7.5,6.2,8,7,7.1,7,needs to slow down during explanations,Weak_Pace,Negative,Pace
+109,Siddharth Mishra,31,B.Com,Year 2,Sem 2,Prof. Ritu Agarwal,Regular,10,10,9.9,9.9,10,10,9.6,10,9.9,10,very supportive outside class,Strength_Support,Positive,Support
+110,Avni Chawla,5,B.Com,Year 2,Sem 2,Faculty A,Regular,10,7,10,7,6.9,7.3,7.2,8,5,7,very approachable and helpful,Strength_Support,Positive,Support
+111,Dhruv Saxena,25,B.Com,Year 1,Sem 1,Faculty A,Regular,4.1,5.1,5.4,4.9,4.9,5.2,6.8,4.9,5.3,5,interactive sessions are helpful,Strength_Engagement,Positive,Engagement
+112,Pallavi Kukreja,96,B.Com,Year 1,Sem 1,Dr. Pradeep Sinha,Visiting,10,10,10,10,7.1,7.6,8.6,7.1,7,7,great subject knowledge,Strength_Knowledge,Positive,Knowledge
+113,Arnav Shah,26,B.Com,Year 1,Sem 1,Dr. P. S. Kulkarni,Visiting,10,5,7,7,7.1,6.1,6.1,6.7,5,7,interactive sessions are helpful,Strength_Engagement,Positive,Engagement
+114,Naman Chadha,103,B.Com,Year 1,Sem 2,Dr. P. S. Kulkarni,Visiting,9.9,9.7,10,10,9.6,10,10,10,10,10,great subject knowledge,Strength_Knowledge,Positive,Knowledge
+115,Parv Singhal,49,B.Com,Year 2,Sem 2,Dr. Sunita Kapoor,Visiting,10,9.6,10,10,10,10,9.9,10,10,10,could improve classroom engagement,Weak_Engagement,Negative,Engagement
+116,Pooja Agarwal,14,B.Com,Year 1,Sem 2,Dr. P. S. Kulkarni,Visiting,10,9.9,9.6,10,9.9,8.6,10,10,10,10,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+117,Radhika Oberoi,64,B.Com,Year 1,Sem 2,Dr. Rohan Bajaj,Visiting,10,10,10,10,10,9.8,9.3,10,10,10,great subject knowledge,Strength_Knowledge,Positive,Knowledge
+118,Naman Chadha,103,B.Com,Year 1,Sem 2,Dr. P. S. Kulkarni,Visiting,10,9.8,9.8,10,10,10,10,9.8,9.9,10,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+119,Jeet Makwana,55,B.Com,Year 2,Sem 1,Prof. Ritu Agarwal,Regular,6.7,6.8,7.2,8.5,7.8,6.4,8.3,9.5,6.3,7,needs better communication,Weak_Communication,Negative,Communication
+120,Keya Garg,69,B.Com,Year 2,Sem 1,Dr. Sunita Kapoor,Visiting,7.5,7.1,8.1,7.9,8.1,6.2,7.9,8.5,8.3,7,explains concepts clearly,Strength_Clarity,Positive,Clarity
+121,Vivaan Sood,57,B.Com,Year 1,Sem 2,Prof. Sameer Nair,Regular,6.2,5.5,5.7,5.8,5.9,4.2,5.2,6.3,5.6,5,explains concepts clearly,Strength_Clarity,Positive,Clarity
+122,Maitri Shah,99,B.Com,Year 1,Sem 2,Faculty A,Regular,10,7,10,2,6.6,6.4,6.7,7.2,5,7,assignments are too complex,Weak_Assignment,Negative,Assignment
+123,Komal Shinde,90,B.Com,Year 2,Sem 2,Dr. Sunita Kapoor,Visiting,8.9,7.7,7.3,6.3,8.1,8.2,7.2,7.8,7.4,7,well structured lectures,Strength_Structure,Positive,Structure
+124,Avni Chawla,5,B.Com,Year 2,Sem 2,Faculty A,Regular,2.5,3.2,1.6,2,2.4,1,2.2,3.1,1.9,2,very supportive outside class,Strength_Support,Positive,Support
+125,Bhavika Mistry,50,B.Com,Year 2,Sem 2,Dr Meera Krishnan,Regular,4.8,5.3,4.3,6.3,5.1,4.5,6.5,5.3,3.4,5,needs more examples,Weak_Examples,Negative,Clarity
+126,Sneha Reddy,12,B.Com,Year 2,Sem 2,Dr. Sunita Kapoor,Visiting,10,10,9.1,8.6,10,8.7,10,10,10,10,assignments are too complex,Weak_Assignment,Negative,Assignment
+127,Abhinav Tomar,97,B.Com,Year 2,Sem 1,Faculty A,Regular,4.8,3.9,5.4,5.3,6.8,3.2,3.8,4.6,4.3,5,needs better communication,Weak_Communication,Negative,Communication
+128,Hemant Surana,77,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,10,7,10,10,10,9.6,10,10,7,10,very approachable and helpful,Strength_Support,Positive,Support
+129,Yash Bhatt,34,B.Com,Year 2,Sem 1,Dr. Sunita Kapoor,Visiting,6.9,8.7,7.2,8.3,8,7,7.8,8.1,7.1,7,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+130,Trisha Banerjee,30,B.Com,Year 1,Sem 2,Prof. Sameer Nair,Regular,8.6,7.3,7.4,6.8,6.9,7.7,7.1,6.2,7.7,7,very supportive outside class,Strength_Support,Positive,Support
+131,Prerna Dua,76,B.Com,Year 1,Sem 2,Dr Meera Krishnan,Regular,10,10,10,10,10,8.7,10,9.9,10,10,explains concepts clearly,Strength_Clarity,Positive,Clarity
+132,Vikram Joshi,13,B.Com,Year 1,Sem 1,Dr. P. S. Kulkarni,Visiting,10,8.8,9.7,8.3,10,9.9,10,9.6,8.3,10,needs better communication,Weak_Communication,Negative,Communication
+133,Ritesh Ahir,94,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,7,7,7,7,7.5,6.4,6.4,8.7,7,7,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+134,Arundhati Soni,105,B.Com,Year 2,Sem 2,Dr. Sunita Kapoor,Visiting,7,7,7,10,8.3,6.3,7.4,7.8,7,7,needs better communication,Weak_Communication,Negative,Communication
+135,Varun Sinha,29,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,6.2,7.2,6.7,6.5,8.9,6.9,6.8,8,6.5,7,needs to slow down during explanations,Weak_Pace,Negative,Pace
+136,Nikhil Bose,16,B.Com,Year 1,Sem 2,Dr Meera Krishnan,Regular,10,10,10,10,10,9.9,10,9.9,7,10,doubt solving is good,Strength_Support,Positive,Support
+137,Radhika Oberoi,64,B.Com,Year 1,Sem 1,Prof. Ritu Agarwal,Regular,10,10,10,10,10,9.7,10,10,10,10,doubt solving is good,Strength_Support,Positive,Support
+138,Sahil Malhotra,18,B.Com,Year 1,Sem 1,Faculty A,Regular,8.1,6.5,7.8,7,6.7,7.5,7.2,6.7,8.1,7,doubt solving is good,Strength_Support,Positive,Support
+139,Sakshi Goyal,40,B.Com,Year 2,Sem 1,Prof. Sameer Nair,Regular,10,10,10,7,10,9,10,10,10,10,very supportive outside class,Strength_Support,Positive,Support
+140,Vikram Joshi,13,B.Com,Year 2,Sem 2,Faculty A,Regular,9.8,9.9,10,10,10,9.2,10,9.4,9.7,10,more student interaction needed,Weak_Engagement,Negative,Engagement
+141,Shreya Pillai,17,B.Com,Year 1,Sem 1,Prof. Sameer Nair,Regular,10,8.8,10,10,10,8.3,8.9,10,9.1,10,good teaching but needs clarity,Weak_Clarity,Negative,Clarity
+142,Rahul Verma,4,B.Com,Year 1,Sem 2,Prof. Ritu Agarwal,Regular,10,10,9.8,10,10,10,10,9.2,9.7,10,very supportive outside class,Strength_Support,Positive,Support
+143,Avni Chawla,5,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,10,10,10,7,10,10,9.8,10,5,10,very engaging lectures,Strength_Engagement,Positive,Engagement
+144,Ankush Luthra,67,B.Com,Year 1,Sem 2,Faculty A,Regular,10,10,10,10,10,9.3,9.6,9.7,7,10,course well organised and clear,Strength_Structure,Positive,Structure
+145,Kabir Das,65,B.Com,Year 1,Sem 2,Prof. Ritu Agarwal,Regular,2.8,3.3,2.6,1.8,1,2.3,1,2.2,2.3,2,could improve classroom engagement,Weak_Engagement,Negative,Engagement
+146,Naman Chadha,103,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,10,10,10,10,9.6,8.4,10,10,10,10,great subject knowledge,Strength_Knowledge,Positive,Knowledge
+147,Simran Kaur,27,B.Com,Year 1,Sem 2,Dr. Sunita Kapoor,Visiting,10,10,10,10,10,9.1,9.2,10,8.8,10,needs to slow down during explanations,Weak_Pace,Negative,Pace
+148,Arundhati Soni,105,B.Com,Year 2,Sem 2,Prof. Ritu Agarwal,Regular,10,10,9.9,9.8,10,9.7,10,10,9.4,10,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+149,Nikhil Bose,16,B.Com,Year 2,Sem 1,Prof. Sameer Nair,Regular,2.7,1.9,1.6,1.8,3,1.3,2.7,2.2,1.5,2,great subject knowledge,Strength_Knowledge,Positive,Knowledge
+150,Gauri Pandya,53,B.Com,Year 2,Sem 2,Dr. Rohan Bajaj,Visiting,8.1,6,8.1,7.8,5.4,8.3,7.4,8.6,7.7,7,assignments are too complex,Weak_Assignment,Negative,Assignment
+151,Ritesh Ahir,94,B.Com,Year 2,Sem 1,Dr. Rohan Bajaj,Visiting,5.2,6.1,4.6,5,5.5,4.8,6.2,6.1,6.4,5,very engaging lectures,Strength_Engagement,Positive,Engagement
+152,Keya Garg,69,B.Com,Year 2,Sem 1,Dr. Rohan Bajaj,Visiting,8.1,7.9,9.3,7.5,8.5,7.5,8.4,8.2,7.1,7,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+153,Vivek Dandekar,106,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,6.9,8.7,6.3,7.5,7.4,6.7,7.6,7.8,6.1,7,needs to slow down during explanations,Weak_Pace,Negative,Pace
+154,Dhruv Saxena,25,B.Com,Year 1,Sem 2,Dr. Sunita Kapoor,Visiting,7,5,5,7,6.9,4.9,5.2,6.4,2,5,lectures too fast,Weak_Pace,Negative,Pace
+155,Pallavi Kukreja,96,B.Com,Year 2,Sem 2,Dr. Sunita Kapoor,Visiting,10,9.5,10,10,10,9.4,10,10,9.6,10,needs better communication,Weak_Communication,Negative,Communication
+156,Bhumi Bajaj,81,B.Com,Year 1,Sem 1,Dr. Rohan Bajaj,Visiting,8,6.7,6.2,8.8,6.9,4.9,7,6.6,6.2,7,very engaging lectures,Strength_Engagement,Positive,Engagement
+157,Shreya Pillai,17,B.Com,Year 2,Sem 2,Faculty A,Regular,10,10,9.1,10,10,7.1,10,9.1,10,10,could improve classroom engagement,Weak_Engagement,Negative,Engagement
+158,Varun Sinha,29,B.Com,Year 2,Sem 2,Faculty A,Regular,7,7,7,7,6,6.9,9,8.3,7,7,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+159,Abhinav Tomar,97,B.Com,Year 1,Sem 2,Dr Meera Krishnan,Regular,6.1,5.7,5.6,5.9,5.6,4.1,4.6,5.2,4.8,5,doubt solving is good,Strength_Support,Positive,Support
+160,Simran Kaur,27,B.Com,Year 1,Sem 2,Dr. Pradeep Sinha,Visiting,9.4,10,9.4,9.4,10,10,9,9.7,9.8,10,very supportive outside class,Strength_Support,Positive,Support
+161,Trisha Banerjee,30,B.Com,Year 2,Sem 2,Dr. Sunita Kapoor,Visiting,8.7,6.7,7.1,7.8,7.7,5.4,6.9,7.9,6,7,assignments are too complex,Weak_Assignment,Negative,Assignment
+162,Heet Parikh,58,B.Com,Year 2,Sem 2,Dr. Sunita Kapoor,Visiting,1.6,2.9,2.3,2.8,3.7,1.6,2.1,2.7,2,2,needs better communication,Weak_Communication,Negative,Communication
+163,Devansh Puri,88,B.Com,Year 2,Sem 1,Dr. Rohan Bajaj,Visiting,8.4,7.6,7.4,6.9,6.6,8,6.5,7.1,6.4,7,interactive sessions are helpful,Strength_Engagement,Positive,Engagement
+164,Shalin Joshi,9,B.Com,Year 2,Sem 1,Faculty A,Regular,10,10,10,7,9.7,9.8,9.8,10,7,10,could improve classroom engagement,Weak_Engagement,Negative,Engagement
+165,Tarun Kapoor,3,B.Com,Year 1,Sem 1,Prof. Sameer Nair,Regular,10,10,10,5,9.9,9.5,9.4,10,7,10,needs to slow down during explanations,Weak_Pace,Negative,Pace
+166,Arundhati Soni,105,B.Com,Year 2,Sem 1,Dr. Rohan Bajaj,Visiting,10,10,10,10,9.7,9.8,10,10,7,10,lectures too fast,Weak_Pace,Negative,Pace
+167,Arnav Shah,26,B.Com,Year 1,Sem 2,Dr. Rohan Bajaj,Visiting,5.9,5.5,5.4,5.4,7.5,4.2,4.4,5.6,5.7,5,pace should be reduced,Weak_Pace,Negative,Pace
+168,Arundhati Soni,105,B.Com,Year 1,Sem 1,Dr. Rohan Bajaj,Visiting,10,10,10,10,10,9,10,10,7,10,needs better communication,Weak_Communication,Negative,Communication
+169,Viraj Rajput,80,B.Com,Year 1,Sem 2,Dr Meera Krishnan,Regular,7,7,7,10,7.1,6.7,8.5,7.1,7,7,explains concepts clearly,Strength_Clarity,Positive,Clarity
+170,Neha Banerjee,32,B.Com,Year 1,Sem 1,Dr. P. S. Kulkarni,Visiting,10,10,10,7,7.2,5.8,6.4,6.9,10,7,very supportive outside class,Strength_Support,Positive,Support
+171,Kriti Thakur,102,B.Com,Year 2,Sem 2,Dr. Rohan Bajaj,Visiting,2,2.6,1.8,2.7,3,2.3,1,3,1,2,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+172,Jinal Solanki,78,B.Com,Year 1,Sem 1,Dr. Sunita Kapoor,Visiting,8.9,6.5,8.6,7.7,7.6,6.9,7.5,8,6.2,7,needs better communication,Weak_Communication,Negative,Communication
+173,Charvi Trivedi,2,B.Com,Year 1,Sem 1,Dr. P. S. Kulkarni,Visiting,7,7,10,7,6.7,6.4,6.1,7.3,5,7,very approachable and helpful,Strength_Support,Positive,Support
+174,Deepika Hegde,46,B.Com,Year 1,Sem 1,Dr. P. S. Kulkarni,Visiting,10,9.7,10,10,9.5,9,10,10,10,10,explains concepts clearly,Strength_Clarity,Positive,Clarity
+175,Parv Singhal,49,B.Com,Year 2,Sem 1,Prof. Sameer Nair,Regular,10,10,10,9.7,10,9.9,10,9.7,9.6,10,doubt solving is good,Strength_Support,Positive,Support
+176,Jiya Nanda,48,B.Com,Year 2,Sem 1,Prof. Ritu Agarwal,Regular,1.7,1,2.6,1.2,2.9,3.4,2.3,3.2,1,2,great subject knowledge,Strength_Knowledge,Positive,Knowledge
+177,Anushka Wadhawan,28,B.Com,Year 2,Sem 2,Dr. Pradeep Sinha,Visiting,7.9,7.3,7.9,7.1,7.8,5.9,8.1,7.4,6.9,7,good teaching but needs clarity,Weak_Clarity,Negative,Clarity
+178,Trisha Banerjee,30,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,7.2,7.8,6.5,7.3,8.4,6.8,7.3,8.2,6.7,7,course well organised and clear,Strength_Structure,Positive,Structure
+179,Rahul Verma,4,B.Com,Year 1,Sem 1,Prof. Ritu Agarwal,Regular,6.9,5.8,5.2,4.1,5.4,3.9,5.2,5.5,3.8,5,needs better communication,Weak_Communication,Negative,Communication
+180,Anushka Wadhawan,28,B.Com,Year 1,Sem 1,Prof. Ritu Agarwal,Regular,8.2,7.3,7.6,7.2,6.8,6.3,6.3,8,5.1,7,pace should be reduced,Weak_Pace,Negative,Pace
+181,Naman Chadha,103,B.Com,Year 1,Sem 1,Prof. Ritu Agarwal,Regular,10,10,10,10,10,8.9,10,10,9.8,10,assignments are too complex,Weak_Assignment,Negative,Assignment
+182,Ankita Rao,24,B.Com,Year 2,Sem 2,Dr. P. S. Kulkarni,Visiting,2.8,2.4,2.1,2.5,3.2,1,1,3.1,2.6,2,well structured lectures,Strength_Structure,Positive,Structure
+183,Pranjal Doshi,92,B.Com,Year 2,Sem 2,Faculty A,Regular,10,10,10,7,9.2,8.9,9.1,8.8,7,10,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+184,Gauri Pandya,53,B.Com,Year 1,Sem 2,Prof. Ritu Agarwal,Regular,10,10,10,10,10,10,9.8,8.4,10,10,very supportive outside class,Strength_Support,Positive,Support
+185,Tanmay Khatri,60,B.Com,Year 2,Sem 1,Faculty A,Regular,4.9,5.2,3.5,4.9,5.8,4.2,4.2,6.2,4.4,5,could improve classroom engagement,Weak_Engagement,Negative,Engagement
+186,Simran Kaur,27,B.Com,Year 1,Sem 2,Faculty A,Regular,10,9.9,9,9.4,10,10,8.9,8.9,8.7,10,explains concepts clearly,Strength_Clarity,Positive,Clarity
+187,Heet Parikh,58,B.Com,Year 1,Sem 1,Prof. Ritu Agarwal,Regular,4,2.2,1.7,2.9,4.1,1.9,1.9,4.2,1.2,2,good teaching but needs clarity,Weak_Clarity,Negative,Clarity
+188,Pranav Shetty,43,B.Com,Year 2,Sem 1,Dr. Rohan Bajaj,Visiting,10,10,10,10,10,9,10,10,10,10,feedback on assignments is timely,Strength_Assessment,Positive,Assignment
+189,Dhruv Saxena,25,B.Com,Year 2,Sem 2,Dr. Rohan Bajaj,Visiting,5,5,5,7,7.3,4.7,5.2,5.8,2,5,great subject knowledge,Strength_Knowledge,Positive,Knowledge
+190,Pallavi Kukreja,96,B.Com,Year 2,Sem 1,Dr. P. S. Kulkarni,Visiting,6.6,6.5,8.1,6.7,7.8,7.2,7.8,8.2,5.8,7,course well organised and clear,Strength_Structure,Positive,Structure
+191,Shalin Joshi,9,B.Com,Year 2,Sem 2,Dr Meera Krishnan,Regular,10,9.1,10,10,10,9.6,10,10,9.4,10,course well organised and clear,Strength_Structure,Positive,Structure
+192,Aayush Rawat,51,B.Com,Year 1,Sem 1,Dr. Rohan Bajaj,Visiting,7.5,8.3,7.4,7.7,8.1,7,8.4,7.4,8.1,7,doubt solving is good,Strength_Support,Positive,Support
+193,Heet Parikh,58,B.Com,Year 2,Sem 1,Dr Meera Krishnan,Regular,10,10,10,7,9.8,8.4,8.6,10,5,10,pace should be reduced,Weak_Pace,Negative,Pace
+194,Yash Bhatt,34,B.Com,Year 2,Sem 2,Dr. P. S. Kulkarni,Visiting,9.8,10,9.9,10,10,8.8,10,10,10,10,pace should be reduced,Weak_Pace,Negative,Pace
+195,Naman Chadha,103,B.Com,Year 2,Sem 1,Dr. Pradeep Sinha,Visiting,10,10,10,10,10,9.5,9.3,10,10,10,needs to slow down during explanations,Weak_Pace,Negative,Pace
+196,Jinal Solanki,78,B.Com,Year 2,Sem 2,Dr. Sunita Kapoor,Visiting,10,10,10,10,10,10,10,10,9.8,10,excellent use of real-world examples,Strength_RealWorld,Positive,Clarity
+197,Varun Sinha,29,B.Com,Year 1,Sem 2,Prof. Ritu Agarwal,Regular,7,7,7,7,8.1,5,7.9,7.8,7,7,assignments are too complex,Weak_Assignment,Negative,Assignment
+198,Aanya Bhatia,41,B.Com,Year 2,Sem 2,Dr. P. S. Kulkarni,Visiting,10,10,10,5,10,9.8,10,9.4,7,10,could improve classroom engagement,Weak_Engagement,Negative,Engagement
+199,Bhumi Bajaj,81,B.Com,Year 2,Sem 1,Dr Meera Krishnan,Regular,10,7,7,7,7.3,5.5,6.7,7.9,5,7,excellent use of real-world examples,Strength_RealWorld,Positive,Clarity
+200,Karan Patel,7,B.Com,Year 2,Sem 1,Dr. Rohan Bajaj,Visiting,9.3,7.9,6.4,7.9,7.2,6.5,7.5,7.1,7.9,7,very approachable and helpful,Strength_Support,Positive,Support
